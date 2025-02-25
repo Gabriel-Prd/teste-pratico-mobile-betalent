@@ -45,4 +45,4 @@ Aplicativo mobile desenvolvido em React Native com Expo. O app tem como funciona
 
 ## Autor
 - Nome: Gabriel Prado
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/gabrielprd/)
+- LinkedIn: [Gabriel Prado](https://www.linkedin.com/in/gabrielprd/)
