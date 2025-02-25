@@ -18,12 +18,12 @@ Aplicativo mobile desenvolvido em React Native com Expo. O app tem como funciona
 
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/employee-list-app.git
+   git clone https://github.com/Gabriel-Prd/teste-pratico-mobile-betalent.git
    ```
 
 2. Acesse o diretório do projeto:
    ```sh
-   cd employee-list-app
+   cd teste-pratico-mobile-betalent
    ```
 
 3. Instale as dependências:
